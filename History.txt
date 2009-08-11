@@ -1,3 +1,6 @@
+=== 0.5.10
+
+* Updated server.rb for Ruby 1.9 [RKelln]
 
 === 0.5.8
 
